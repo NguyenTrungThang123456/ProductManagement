@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace ProductManagement.Domain.Enums
+﻿namespace ProductManagement.Domain.Enums
 {
     public enum ProductStatus
     {

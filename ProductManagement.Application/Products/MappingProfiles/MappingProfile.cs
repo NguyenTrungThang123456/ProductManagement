@@ -2,9 +2,6 @@
 using ProductManagement.Application.Products.Commands;
 using ProductManagement.Application.Products.ViewModels;
 using ProductManagement.Domain.Entities;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace ProductManagement.Application.Products.MappingProfiles
 {

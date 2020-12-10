@@ -3,7 +3,6 @@ using MediatR;
 using ProductManagement.Application.Common.Interfaces;
 using ProductManagement.Application.Products.Commands;
 using ProductManagement.Domain.Entities;
-using System;
 using System.Threading;
 using System.Threading.Tasks;
 

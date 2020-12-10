@@ -1,11 +1,8 @@
-﻿using MediatR;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using ProductManagement.Application.Products.Commands;
 using ProductManagement.Application.Products.Queries;
 using ProductManagement.Application.Products.ViewModels;
-using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
 
 namespace ProductManagement.Api.Controllers

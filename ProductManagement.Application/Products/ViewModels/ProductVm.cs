@@ -1,7 +1,5 @@
 ﻿using ProductManagement.Domain.Enums;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace ProductManagement.Application.Products.ViewModels
 {

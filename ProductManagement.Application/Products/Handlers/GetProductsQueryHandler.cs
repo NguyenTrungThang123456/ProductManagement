@@ -4,10 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using ProductManagement.Application.Common.Interfaces;
 using ProductManagement.Application.Products.Queries;
 using ProductManagement.Application.Products.ViewModels;
-using ProductManagement.Domain.Entities;
-using System;
 using System.Collections.Generic;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 

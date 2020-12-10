@@ -3,10 +3,7 @@ using FluentValidation;
 using ProductManagement.Application.Common.Behaviors;
 using MediatR;
 using Microsoft.Extensions.DependencyInjection;
-using System;
-using System.Collections.Generic;
 using System.Reflection;
-using System.Text;
 namespace ProductManagement.Application
 {
     public static class DependecyInjection

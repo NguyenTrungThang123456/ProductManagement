@@ -3,7 +3,6 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using ProductManagement.Application.Common.Interfaces;
 using ProductManagement.Infrastructure.Data;
-using System;
 
 namespace ProductManagement.Infrastructure
 {

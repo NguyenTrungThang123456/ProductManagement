@@ -2,9 +2,6 @@
 using MediatR;
 using ProductManagement.Application.Common.Interfaces;
 using ProductManagement.Application.Products.Commands;
-using System;
-using System.Collections.Generic;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
